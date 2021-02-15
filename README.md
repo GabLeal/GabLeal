@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Gabriel Leal! 👋
+### Hi there, i'm Gabriel Leal! 👋
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
 <h3>About Me 👨🏻💻  </h3>
