@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 </div>
 
-<h3>About Me 👨🏻💻  </h3>
+<!-- <h3>About Me 👨🏻💻  </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
-<hr>
+<hr> -->
 
 
 <h3> 🤝🏻 Connect with Me </h3>
